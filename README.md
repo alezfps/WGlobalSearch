@@ -117,12 +117,8 @@ Il plugin utilizza **NBT-API**:
 
 ## Supporto
 
-Per bug, suggerimenti o richieste di funzionalità, contatta lo sviluppatore.
+Per bug, suggerimenti o richieste di funzionalità, contattami su Telegram: @alez1337
 
 ## Licenza
 
 Questo plugin è sviluppato per uso privato. Tutti i diritti riservati.
-
----
-
-**WGlobalSearch v1.0.0** - Ricerca globale avanzata per Server Minecraft 1.16.5
